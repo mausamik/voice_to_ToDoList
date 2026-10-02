@@ -1,0 +1,12 @@
+fastapi
+av<19
+uvicorn
+python-multipart
+faster-whisper
+ollama 
+pydantic
+sqlalchemy
+langchain
+langchain-ollama
+langchain-groq 
+dotenv
